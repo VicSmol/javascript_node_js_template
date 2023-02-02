@@ -1,1 +1,1 @@
-# note_js_template
+Template for Node.js project (Javascript)
