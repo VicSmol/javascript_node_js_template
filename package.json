@@ -1,0 +1,13 @@
+{
+  "name": "javascript_node_js_template",
+  "version": "1.0.0",
+  "description": "Template project for Node.js (javascript)",
+  "main": "index.js",
+  "repository": "git@github.com:VicSmol/javascript_node_js_template.git",
+  "author": "Victor Smolyakov <smolyakov.92@bk.ru>",
+  "license": "GPL",
+  "private": false,
+  "scripts": {
+
+  }
+}
